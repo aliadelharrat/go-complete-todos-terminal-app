@@ -6,7 +6,7 @@ import (
 	"os"
 	"slices"
 
-	"github.com/aliadelharrat/task16/output"
+	"github.com/aliadelharrat/go-complete-todos-terminal-app/output"
 )
 
 type Task struct {

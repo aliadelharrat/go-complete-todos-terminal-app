@@ -5,9 +5,9 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/aliadelharrat/task16/input"
-	"github.com/aliadelharrat/task16/output"
-	"github.com/aliadelharrat/task16/task"
+	"github.com/aliadelharrat/go-complete-todos-terminal-app/input"
+	"github.com/aliadelharrat/go-complete-todos-terminal-app/output"
+	"github.com/aliadelharrat/go-complete-todos-terminal-app/task"
 )
 
 const tasksFileName = "tasks.json"
